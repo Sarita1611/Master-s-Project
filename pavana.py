@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 24 13:39:49 2023
 
-@author: sana kodakeri
+@author: Sarita
 """
 
 from astropy.io import fits

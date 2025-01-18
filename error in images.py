@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 11:48:10 2023
 
-@author: sana kodakeri
+@author: Sarita
 """
 
 import cv2

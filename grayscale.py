@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 21 17:22:37 2024
 
-@author: sana kodakeri
+@author: Sarita
 """
 
 from PIL import Image

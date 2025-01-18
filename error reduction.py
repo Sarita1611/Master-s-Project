@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 18 14:53:34 2023
 
-@author: sana kodakeri
+@author: Sarita
 """
 
 import numpy as np
